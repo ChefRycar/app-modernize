@@ -1,0 +1,6 @@
+"tag_contact" = "Nick Rycar"
+"azure_region" = "East US"
+"habitat_origin" = "nrycar"
+"tag_dept" = "Product Marketing"
+"tag_customer" = "Chef Software"
+"tag_project" = "App Modernization"
